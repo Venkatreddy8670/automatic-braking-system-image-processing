@@ -105,7 +105,7 @@ automatic-braking-system-image-processing/
 
 **VENKATREDDY**  
 Department of ECE  
-[Your College Name]  
+[AMC Engineering College]  
 
 ---
 
